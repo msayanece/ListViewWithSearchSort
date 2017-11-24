@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://E:\SayanAndroidApps\ListViewWithSearchSort\ListViewCustomArraylist.iml" filepath="E:\SayanAndroidApps\ListViewWithSearchSort\ListViewCustomArraylist.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/ListViewWithSearchSort.iml" filepath="$PROJECT_DIR$/.idea/ListViewWithSearchSort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://E:\SayanAndroidApps\ListViewWithSearchSort\app\app.iml" filepath="E:\SayanAndroidApps\ListViewWithSearchSort\app\app.iml" />
+    </modules>
+  </component>
+</project>
